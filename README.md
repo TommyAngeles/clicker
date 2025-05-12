@@ -1,2 +1,2 @@
-# clicker1
+# clicker
 clicker
